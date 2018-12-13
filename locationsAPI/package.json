@@ -1,0 +1,27 @@
+{
+  "name": "locationsapi",
+  "version": "1.0.0",
+  "description": "Locations REST API using No-SQL database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwanathsrikanth/ready2019.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rest"
+  ],
+  "author": "vism@microsoft.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwanathsrikanth/ready2019/issues"
+  },
+  "homepage": "https://github.com/vishwanathsrikanth/ready2019#readme",
+  "dependencies": {
+    "mongoose": "^5.3.16",
+    "restify": "^7.3.0"
+  }
+}
